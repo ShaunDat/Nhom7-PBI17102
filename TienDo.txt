@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-da chinh sua
-=======
 Hoan thanh setup cho cac thanh vien nhom
->>>>>>> a655605 (DatDaSua)
