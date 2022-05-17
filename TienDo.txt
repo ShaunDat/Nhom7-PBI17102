@@ -1,1 +1,2 @@
 Hoan thanh setup cho cac thanh vien nhom
+cac thanh vien trong nhom 
